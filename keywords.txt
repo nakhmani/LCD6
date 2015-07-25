@@ -1,0 +1,4 @@
+LCD6 KEYWORD1
+print KEYWORD2
+clear KEYWORD2
+specialsymbol KEYWORD2
